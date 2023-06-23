@@ -1,1 +1,3 @@
-# personal-finance-tracker
+# Personal Finance Tracker
+
+Create Next App with Next
